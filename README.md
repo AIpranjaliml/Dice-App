@@ -1,4 +1,4 @@
-# firststep
+# Dice app
 
 A new Flutter project.
 
